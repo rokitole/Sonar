@@ -1,0 +1,35 @@
+
+
+* fix dashes issue!!
+* new automatic filter "not set" on every collapsible
+* new add revision countdown as filter (gets nulls) (use views?)
+* new automatically detect clicks on mail addresses and other urls on detail page and perform action
+* on cancel blank reload previous selected project
+* refine event registration on init.js?
+* adjust webkit overflow scrolling
+* validate deleted entries on adding new items
+* sonar should get offset of list item not of list itself for rescrolling
+* dont scroll detail view on listing select (detail should load on top not on previous scroll position)
+* fix selected marker positioning at listing on tween?
+* load buttons dynamically? at least set group for notifications
+
+
+* new count cron-issues in new projects-table column
+* new re-test button in mail (also needs landingpage)
+* new statistics (only left column, scrolls bars to the right, custom queries and joins)
+* new dynamic loading for menu plus login animation and dont load unused scripts on login!
+* new main object sonar.things()?
+* new favorite option, maybe color-gradient-labels?
+* new filter for golive realdate? or use datepicker like iOS?
+* new remove site overflow bouncing
+* new special filters by query (no Sonar, only sonar, uncomplete projects, deleted, favorites)
+* new copy listing to clipboard maybe copy details to clipbboard document.execCommand('copy');
+* new send details as mail
+* new enable filter editing and deleting
+* new documentation as help pages (newslettertool)
+* new modal multiselect
+* new keyboard navigation
+* new is visible js?
+
+
+

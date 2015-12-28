@@ -1,0 +1,107 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/build/scripts/engine.ping.min.js" />
+        <item url="file://$PROJECT_DIR$/build/scripts/engine.init.min.js" />
+        <item url="file://$PROJECT_DIR$/build/scripts/engine.menu.min.js" />
+        <item url="file://$PROJECT_DIR$/build/scripts/engine.listing.min.js" />
+        <item url="file://$PROJECT_DIR$/build/scripts/engine.mode.min.min.js" />
+        <item url="file://$PROJECT_DIR$/build/scripts/engine.init.min.min.js" />
+        <item url="file://$PROJECT_DIR$/build/scripts/engine.menu.min.min.js" />
+        <item url="file://$PROJECT_DIR$/build/scripts/engine.auth.min.min.js" />
+        <item url="file://$PROJECT_DIR$/build/scripts/engine.update.min.min.js" />
+        <item url="file://$PROJECT_DIR$/build/scripts/engine.modal.min.min.js" />
+        <item url="file://$PROJECT_DIR$/build/scripts/engine.mode.min.js" />
+        <item url="file://$PROJECT_DIR$/build/scripts/engine.detail.min.min.js" />
+        <item url="file://$PROJECT_DIR$/build/scripts/engine.modal.min.js" />
+        <item url="file://$PROJECT_DIR$/build/scripts/engine.ping.min.min.js" />
+        <item url="file://$PROJECT_DIR$/build/scripts/engine.validate.min.js" />
+        <item url="file://$PROJECT_DIR$/build/scripts/engine.auth.min.js" />
+        <item url="file://$PROJECT_DIR$/build/scripts/engine.detail.min.js" />
+        <item url="file://$PROJECT_DIR$/build/scripts/engine.validate.min.min.js" />
+        <item url="file://$PROJECT_DIR$/build/scripts/engine.listing.min.min.js" />
+        <item url="file://$PROJECT_DIR$/build/scripts/engine.update.min.js" />
+        <item url="file://$PROJECT_DIR$/build/scripts/engine.display.min.min.js" />
+        <item url="file://$PROJECT_DIR$/build/scripts/engine.display.min.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.mode.min.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.auth.min.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.init.min.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.autosuggest.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.sugg.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.autosuggest.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.sugg.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.sugg.min.js" />
+      <root url="file://$PROJECT_DIR$/build/handler/handle.listing.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.delete.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.delete.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.notify.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.setup.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.clipboard.min.js" />
+      <root url="file://$PROJECT_DIR$/build/--scripts/sonar.auth.min.js" />
+      <root url="file://$PROJECT_DIR$/build/--scripts/sonar.mode.min.js" />
+      <root url="file://$PROJECT_DIR$/build/--scripts/sonar.menu.min.js" />
+      <root url="file://$PROJECT_DIR$/build/--scripts/sonar.init.min.js" />
+      <root url="file://$PROJECT_DIR$/build/--scripts/sonar.modal.min.js" />
+      <root url="file://$PROJECT_DIR$/build/--scripts/sonar.ping.min.js" />
+      <root url="file://$PROJECT_DIR$/build/--scripts/sonar.auth.min.js" />
+      <root url="file://$PROJECT_DIR$/build/--scripts/sonar.mode.min.js" />
+      <root url="file://$PROJECT_DIR$/build/--scripts/sonar.menu.min.js" />
+      <root url="file://$PROJECT_DIR$/build/--scripts/sonar.init.min.js" />
+      <root url="file://$PROJECT_DIR$/build/--scripts/sonar.modal.min.js" />
+      <root url="file://$PROJECT_DIR$/build/--scripts/sonar.ping.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.test.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.test.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.action.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.action.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.update.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.detail.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.listing.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.display.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.menu.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.modal.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.ping.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.mode.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.init.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.validate.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.update.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.detail.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.listing.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.display.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.menu.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.modal.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.ping.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.mode.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.init.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/sonar.validate.min.js" />
+      <root url="file://$PROJECT_DIR$/deprecated/build/scripts/sonar/gather.min.js" />
+      <root url="file://$PROJECT_DIR$/deprecated/dev/build/scripts/sonar/gather.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/engine.ping.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/engine.init.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/engine.menu.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/engine.listing.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/engine.mode.min.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/engine.init.min.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/engine.menu.min.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/engine.auth.min.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/engine.update.min.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/engine.mode.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/engine.modal.min.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/engine.modal.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/engine.detail.min.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/engine.validate.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/engine.ping.min.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/engine.auth.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/engine.validate.min.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/engine.detail.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/engine.update.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/engine.listing.min.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/engine.display.min.js" />
+      <root url="file://$PROJECT_DIR$/build/scripts/engine.display.min.min.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
